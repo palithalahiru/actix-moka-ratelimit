@@ -9,7 +9,7 @@ keywords = ["actix-web", "rate-api", "rate-limit", "limitation", "moka", "rateli
 categories = ["asynchronous", "web-programming"]
 repository = "https://github.com/palithalahiru/actix-moka-ratelimit"
 license = "MIT OR Apache-2.0"
-edition = "2021"
+edition = "2026"
 rust-version = "1.75"
 
 [package.metadata.docs.rs]
