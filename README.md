@@ -9,7 +9,7 @@
 ```toml
 [dependencies]
 actix-web = "4"
-actix-ratelimit = "0.5"
+actix-moka-ratelimit = "0.5"
 ```
 
 ```rust
